@@ -1,0 +1,24 @@
+header img {
+    width: 140px;
+    height: 140px;
+}
+
+form.card {
+    width: 22rem;
+    border: 1px solid #247EF5;
+    background-color: #F5F5F5;
+}
+
+form.card input {
+    border: 1px solid #247EF5;
+}
+
+form.card button {
+    border: 1px solid #247EF5;
+    background-color: #247EF5;
+}
+
+nav img {
+    width: 50px; 
+    height: 50px;
+}
